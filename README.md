@@ -1,4 +1,4 @@
-# Dice-simulator Using `Python` `Pygame`
+# Dice-simulator Using `Python` `GUI-tkinter`
 ![pig_dice_game_ss](https://github.com/aritrochakraborty29/Dice-simulator/blob/main/Hnet-image%20(1).gif)
 ### Rule: 
 1. `The First Roll`
